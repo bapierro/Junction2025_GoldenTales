@@ -1,5 +1,5 @@
 
-  # GoldenTale Mobile Web App
+  # GoldenTale
 
   This is a code bundle for the GoldenTale Mobile Web App. The original project is available at https://www.figma.com/design/XIbyxmhOicdCjGGp2tQFIi/StoryCircle-Mobile-Web-App.
 
